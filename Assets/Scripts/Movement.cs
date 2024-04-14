@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    public float speed = 5f; // Velocidad de movimiento en unidades por segundo
+    //public float speed = 5f; // Velocidad de movimiento en unidades por segundo
     public float movementDistance = 1.5f; // Distancia de movimiento en unidades
     public float movementTime = 0.1f; // Duración del movimiento en segundos
 
