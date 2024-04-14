@@ -1,14 +1,13 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class death : MonoBehaviour
+public class Death : MonoBehaviour
 {
     public Sprite spritenew;
+    public GameObject clock;
     private SpriteRenderer spRender;
     public GameObject explotion;
-    private Rotacion explotionRotacion;
-    private Rotacion playerRotation;
+    private Rotation explotionRotacion;
+    private Rotation playerRotation;
     private bool dead = false;
     void Start(){
         spRender = gameObject.GetComponent<SpriteRenderer>();
@@ -19,10 +18,12 @@ public class death : MonoBehaviour
             spRender.sprite = spritenew;
             explotion.transform.position = new Vector3(transform.position.x,transform.position.y,0.5f);
             if(!dead){
-                explotionRotacion = explotion.AddComponent<Rotacion>();
-                playerRotation = gameObject.AddComponent<Rotacion>();
-                explotionRotacion.velocidadRotacion = 100;
-                playerRotation.velocidadRotacion = -100;
+                Destroy(gameObject.GetComponent<Movement>());
+                Destroy(clock.GetComponent<Timer>());
+                explotionRotacion = explotion.AddComponent<Rotation>();
+                playerRotation = gameObject.AddComponent<Rotation>();
+                explotionRotacion.rotationSpeed = 100;
+                playerRotation.rotationSpeed = -100;
                 Invoke("RemoveAll",2);
             }
             dead = true;

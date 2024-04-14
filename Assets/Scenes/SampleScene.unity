@@ -136,6 +136,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.237
@@ -184,7 +188,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -207,6 +212,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.532
@@ -255,7 +264,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -268,6 +278,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.497
@@ -316,7 +330,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -334,6 +349,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.225
@@ -382,7 +401,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -395,6 +415,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.168
@@ -443,7 +467,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -456,6 +481,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.268
@@ -504,7 +533,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -517,6 +547,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.639
@@ -565,7 +599,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -578,6 +613,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.462
@@ -626,7 +665,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -644,6 +684,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.411
@@ -692,7 +736,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -705,6 +750,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.431
@@ -753,7 +802,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -771,6 +821,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.583
@@ -819,7 +873,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -837,6 +892,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.435
@@ -885,7 +944,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -895,6 +955,164 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
   m_PrefabInstance: {fileID: 1278823214}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &336549503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 336549506}
+  - component: {fileID: 336549505}
+  - component: {fileID: 336549504}
+  - component: {fileID: 336549507}
+  m_Layer: 0
+  m_Name: Muro
+  m_TagString: Wall
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &336549504
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336549503}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!212 &336549505
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336549503}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &336549506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336549503}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0.38268343, w: 0.92387956}
+  m_LocalPosition: {x: 22.73, y: 19.85, z: 0}
+  m_LocalScale: {x: 1, y: 10, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -45}
+--- !u!50 &336549507
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336549503}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!4 &338078433 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
@@ -908,6 +1126,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.059
@@ -956,7 +1178,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -974,6 +1197,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.292
@@ -1022,7 +1249,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1045,6 +1273,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.46
@@ -1093,7 +1325,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1190,6 +1423,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.538
@@ -1238,7 +1475,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1251,6 +1489,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.123
@@ -1299,7 +1541,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1660,6 +1903,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.596
@@ -1708,7 +1955,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1734,7 +1982,7 @@ GameObject:
   - component: {fileID: 627868022}
   - component: {fileID: 627868021}
   m_Layer: 0
-  m_Name: fondo_nie
+  m_Name: Fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1815,6 +2063,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.638
@@ -1863,7 +2115,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1901,6 +2154,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.555
@@ -1949,7 +2206,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1962,6 +2220,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.564
@@ -2010,7 +2272,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2023,6 +2286,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.626
@@ -2071,7 +2338,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2084,6 +2352,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.574
@@ -2132,7 +2404,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2145,6 +2418,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.596
@@ -2193,7 +2470,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2206,6 +2484,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.628
@@ -2254,7 +2536,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2267,6 +2550,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.496
@@ -2315,7 +2602,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2328,6 +2616,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.548
@@ -2376,7 +2668,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2394,6 +2687,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.513
@@ -2442,7 +2739,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2455,6 +2753,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.492
@@ -2503,7 +2805,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2521,6 +2824,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.129
@@ -2569,7 +2876,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2582,6 +2890,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.545
@@ -2630,7 +2942,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2803,10 +3116,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 895808557}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7997eb7ab8892c48999faddb0569452, type: 3}
+  m_Script: {fileID: 11500000, guid: 4b5ed6968fcad9e46a5f8c9e51fedf3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidadRotacion: 20
+  rotationSpeed: 20
 --- !u!1001 &912703360
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2815,6 +3128,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.387
@@ -2863,7 +3180,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2876,6 +3194,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.674
@@ -2924,7 +3246,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2937,6 +3260,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.599
@@ -2985,7 +3312,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3038,6 +3366,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.002
@@ -3086,7 +3418,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3099,6 +3432,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.113
@@ -3147,7 +3484,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3160,6 +3498,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.442
@@ -3208,7 +3550,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3221,6 +3564,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.527
@@ -3269,7 +3616,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3282,6 +3630,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.502
@@ -3330,7 +3682,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3409,6 +3762,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.5304
@@ -3457,7 +3814,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3475,6 +3833,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.584
@@ -3523,7 +3885,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3546,6 +3909,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.369
@@ -3594,7 +3961,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3612,6 +3980,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.62
@@ -3660,7 +4032,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3683,6 +4056,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.401
@@ -3731,7 +4108,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3749,6 +4127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.3253
@@ -3797,7 +4179,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3810,6 +4193,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.201
@@ -3858,7 +4245,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3881,6 +4269,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.506
@@ -3929,7 +4321,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3942,6 +4335,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.514
@@ -3990,7 +4387,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4003,6 +4401,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.323
@@ -4051,7 +4453,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4064,6 +4467,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.0018
@@ -4112,7 +4519,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4130,6 +4538,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.321
@@ -4178,7 +4590,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4201,6 +4614,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.281
@@ -4249,7 +4666,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4267,6 +4685,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.407
@@ -4315,7 +4737,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4338,6 +4761,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.358
@@ -4386,7 +4813,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4401,10 +4829,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1709075170}
   - component: {fileID: 1709075169}
-  - component: {fileID: 1709075171}
   - component: {fileID: 1709075173}
-  - component: {fileID: 1709075172}
   - component: {fileID: 1709075174}
+  - component: {fileID: 1709075175}
   m_Layer: 0
   m_Name: Nave
   m_TagString: Untagged
@@ -4479,35 +4906,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1709075171
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1709075168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 14dbf8ee082eb8d44954370576724839, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  velocidad: 5
-  distanciaDeMovimiento: 1.5
-  duracionMovimiento: 0.15
---- !u!114 &1709075172
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1709075168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c000e650309bda3468b64c63dc573a84, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  spritenew: {fileID: 21300000, guid: 7107072a3331f6d4d87c2ede0a74600f, type: 3}
-  explotion: {fileID: 421739138}
 --- !u!61 &1709075173
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4580,6 +4978,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1709075175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709075168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 079af02d2664f3042ba55227f4542ec7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  movementDistance: 1.5
+  movementTime: 0.15
 --- !u!1001 &1721816522
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4588,6 +5001,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.27
@@ -4636,7 +5053,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4659,6 +5077,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.467
@@ -4707,7 +5129,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4720,6 +5143,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.363
@@ -4768,7 +5195,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4781,6 +5209,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.494
@@ -4829,7 +5261,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4862,6 +5295,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.238
@@ -4910,7 +5347,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4933,6 +5371,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.337
@@ -4981,7 +5423,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -4994,6 +5437,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0569
@@ -5042,7 +5489,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5055,6 +5503,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.5769
@@ -5103,7 +5555,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5116,6 +5569,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.249
@@ -5164,7 +5621,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5182,6 +5640,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.231
@@ -5230,7 +5692,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5243,6 +5706,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.144
@@ -5291,7 +5758,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5309,6 +5777,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.187
@@ -5357,7 +5829,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5497,6 +5970,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.548
@@ -5545,7 +6022,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5558,6 +6036,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.131
@@ -5606,7 +6088,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5619,6 +6102,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 895808559}
     m_Modifications:
+    - target: {fileID: -3165512119753811381, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3018607401718957684, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.1177
@@ -5667,7 +6154,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: asteroide
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2611350302185910906, guid: 62401e88f2e6cce4289596a94c905733, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -5683,3 +6171,4 @@ SceneRoots:
   - {fileID: 627868022}
   - {fileID: 1176223246}
   - {fileID: 421739140}
+  - {fileID: 336549506}
