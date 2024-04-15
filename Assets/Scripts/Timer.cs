@@ -9,6 +9,6 @@ public class Timer : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        textTimer.text = "" + timer.ToString("f1");
+        textTimer.text = "" + timer.ToString("f0");
     }
 }

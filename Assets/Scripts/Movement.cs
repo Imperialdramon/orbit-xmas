@@ -17,12 +17,17 @@ public class Movement : MonoBehaviour
     {
         initialPos = transform.position;
         finalPos = initialPos;
-        limitUp = initialPos.y + movementDistance*3;
-        limitDown = initialPos.y - movementDistance;
+        limitUp = initialPos.y + movementDistance*2 +1;
+        limitDown = initialPos.y - movementDistance -1;
     }
 
     void Update()
     {
+        //float rotation = Mathf.Sin(Time.time*4f)*0.08f-0.02f;
+        float rotation = Mathf.Sin(Time.time*2f)*8f-0.02f;
+        //transform.Rotate(Vector3.forward, rotation);
+        transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, rotation);
+
         if (Input.GetKeyDown(KeyCode.W))
         {
             MoverArriba();
